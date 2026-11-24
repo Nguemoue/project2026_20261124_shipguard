@@ -11,8 +11,6 @@ php shipguard.php --demo
 
 PHP **8.1+**, aucune extension hors du cœur. Testé sur 8.1, 8.3 et 8.4.
 
-![self-test](https://github.com/Nguemoue/project2026_20261124_shipguard/actions/workflows/self-test.yml/badge.svg)
-
 ## Ça attrape quoi
 
 | Règle | Niveau | Quand |
